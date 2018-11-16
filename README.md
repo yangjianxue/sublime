@@ -9,7 +9,11 @@
 3、安装完成后重启sublime 
 4、如果perferences 里有 package control 则安装成功
 ```
-
+##### 安装 插件
+```
+按下Ctrl+Shift+P调出命令面板
+输入install 调出 Install Package 选项并回车，然后在列表中搜索要安装的插件。
+```
 
 ##### sublime 常用插件
 ```
@@ -33,5 +37,33 @@
 8、Color Highlighter
   功能：颜色功能还是很爽的
 9、DocBlockr
-  功能：自动补全注释插件 （支持JavaScript (including ES6), PHP, ActionScript, Haxe, CoffeeScript, TypeScript, Java, Apex, Groovy, Objective C, C, C++ and Rust.等众多语言）
+  功能：自动补全注释插件 （支持JavaScript (including ES6), PHP, ActionScript, Haxe, CoffeeScript, TypeScript, Java, Apex, Groovy, Objective C, C, C++ and Rust.等众多语言）  
+10、SublimeTmpl
+快速格式化代码
+11、Can I Use
+可以直接调整到caniuse看到当前属性的浏览器支持情况。快捷键
+12、InsertDate
+插入时间，项目文件存在CDN的时候，需要改变时间戳才会看到效果，这个是个好东西。
+13、Git
+Git插件，提供Git常用的命令集合。
+```
+##### 关于 vue 插件
+```
+1、Vue Syntax  Highlight 
+功能： vue 语法高亮
+```
+
+##### 关于 css 插件
+```
+1、Less
+功能： Sublime Text3支持Less
+2、Sass
+功能： Sublime Text3支持Sass
+```
+
+##### 关于 typescript 插件
+```
+1、TypeScript
+功能： TypeScript 语法高亮
+
 ```
